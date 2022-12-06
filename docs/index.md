@@ -3,7 +3,7 @@ layout: cv
 title: Felipe Valencia's Resume
 ---
 # Felipe Valencia
-Business major student and entrepreneur with a passion for data science.
+*Business major student and entrepreneur with a passion for data science.*
 
 <div id="webaddress">
 <a href="fevacla@byui.edu">fevacla@byui.edu</a>
